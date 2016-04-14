@@ -6,3 +6,4 @@
 #Go to the website and get the coordinates of captcha image and respectively assign the coordinates according to the code
 #Step 3
 #Run the script
+h
